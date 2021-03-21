@@ -644,6 +644,23 @@ h2.resp-accordion {
 	width:27%;
 	margin-right:5%
 }
+.about-img {
+	float: left;
+	width:32%;
+	margin-right:5%
+}
+.about-img img{
+	width: 350px;
+}
+.about-img2 img{
+	width: 350px;
+	margin-top:15%;
+}
+.about-img2 {
+	float: right;
+	width: 32%;
+	margin-left:5%
+}
 .about-imag img {
 	border: 2px solid #ef664d;
 	border-radius: 103px;
@@ -651,6 +668,16 @@ h2.resp-accordion {
 .about-text {
 	float: left;
 	width: 65%;
+	margin-top:3%; 
+}
+.about-txt {
+	float: right;
+	width: 60%;
+	margin-top:3%; 
+}
+.about-txt2 {
+	float: right;
+	width:60%;
 	margin-top:3%; 
 }
 .about-text p {
@@ -734,6 +761,27 @@ padding:30px 0;
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
+}
+svg{
+	width:40px;
+	height:40px;
+	display:inline-block;
+	text-align: center;
+	color:aliceblue;
+	padding:30px 0;
+	width:40px;
+	height:40px;
+}
+svg :hover{
+	text-align: center;
+	padding:10px 0;
+	color:#ffa33a;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+	background-position:0px 0px;
 }
 .social-icon a i.icon1{
 	background-position:0px 0px;
