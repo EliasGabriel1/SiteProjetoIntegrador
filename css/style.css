@@ -2,6 +2,7 @@
 Author: Template Stock
 Author URL: http://templatestock.co
 --*/
+
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -647,7 +648,8 @@ h2.resp-accordion {
 .about-img {
 	float: left;
 	width:32%;
-	margin-right:5%
+	margin-right:5%;
+	margin-top:3%;
 }
 .about-img img{
 	width: 350px;
@@ -659,7 +661,8 @@ h2.resp-accordion {
 .about-img2 {
 	float: right;
 	width: 32%;
-	margin-left:5%
+	margin-left:5%;
+	margin-top:5%;
 }
 .about-imag img {
 	border: 2px solid #ef664d;
